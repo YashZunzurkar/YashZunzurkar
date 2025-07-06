@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Zunzurkar
 
-<!--
-**YashZunzurkar/YashZunzurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer currently learning **C programming** and **HTML**.  
+I’m passionate about building my foundation in computer science and exploring the world of programming — one step at a time.
 
-Here are some ideas to get you started:
+## 💻 What I'm Currently Learning
+- C Language
+- HTML & Web Basics
+- Git & GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Strengthen my core programming skills  
+- Build and contribute to real-world projects  
+- Become a self-made developer with consistency and curiosity
+
+> “It’s not about where you start, it’s about how far you’re willing to go.” 🚀
+
+---
+
+📫 *Let’s connect and grow together!*
